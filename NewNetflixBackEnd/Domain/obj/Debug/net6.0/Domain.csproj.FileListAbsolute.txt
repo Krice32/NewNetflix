@@ -1,0 +1,70 @@
+C:\Users\erick\Documents\GitHub\new-netflix\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\erick\Documents\GitHub\new-netflix\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\erick\Documents\GitHub\new-netflix\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\erick\Documents\GitHub\new-netflix\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\erick\Documents\GitHub\new-netflix\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\erick\Documents\GitHub\new-netflix\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\GitHub\new-netflix\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\GitHub\new-netflix\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\GitHub\new-netflix\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\erick\Documents\GitHub\new-netflix\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\GitHub\new-netflix\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\erick\Documents\GitHub\new-netflix\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\erick\Documents\GitHub\new-netflix\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\erick\Documents\GitHub\new-netflix\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\danib\Downloads\new-netflix\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\danib\Downloads\new-netflix\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\danib\Downloads\new-netflix\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\danib\Downloads\new-netflix\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\danib\Downloads\new-netflix\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\danib\Downloads\new-netflix\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\danib\Downloads\new-netflix\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danib\Downloads\new-netflix\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\danib\Downloads\new-netflix\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\danib\Downloads\new-netflix\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\danib\Downloads\new-netflix\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\danib\Downloads\new-netflix\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\danib\Downloads\new-netflix\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\danib\Downloads\new-netflix\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\erick\Desktop\new-netflix\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\erick\Desktop\new-netflix\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\erick\Desktop\new-netflix\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\erick\Desktop\new-netflix\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\erick\Desktop\new-netflix\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\erick\Desktop\new-netflix\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\new-netflix\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\new-netflix\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\new-netflix\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\erick\Desktop\new-netflix\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\new-netflix\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\erick\Desktop\new-netflix\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\erick\Desktop\new-netflix\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\erick\Desktop\new-netflix\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\erick\Desktop\New-netflix - Copia\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\erick\Desktop\New-netflix - Copia\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\erick\Desktop\New-netflix - Copia\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\erick\Desktop\New-netflix - Copia\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\erick\Desktop\New-netflix - Copia\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\erick\Desktop\New-netflix - Copia\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\New-netflix - Copia\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\New-netflix - Copia\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\New-netflix - Copia\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\erick\Desktop\New-netflix - Copia\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\New-netflix - Copia\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\erick\Desktop\New-netflix - Copia\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\erick\Desktop\New-netflix - Copia\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\erick\Desktop\New-netflix - Copia\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\erick\Desktop\NewNetflixBackEnd\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\erick\Desktop\NewNetflixBackEnd\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\erick\Desktop\NewNetflixBackEnd\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\erick\Desktop\NewNetflixBackEnd\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\NewNetflixBackEnd\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\NewNetflixBackEnd\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\NewNetflixBackEnd\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\erick\Desktop\NewNetflixBackEnd\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\NewNetflixBackEnd\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\erick\Desktop\NewNetflixBackEnd\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache

@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Controllers.FavoriteController.ListarTodos">
+            <summary>
+            Listar todos os Favoritos
+            </summary>
+            <returns></returns>        
+        </member>
+        <member name="M:WebApi.Controllers.FavoriteController.ListarPorId(System.Int32)">
+            <summary>
+            Listar Favorito por id
+            </summary>
+            <param name="id"></param>
+            <returns>return um objeto movie</returns>
+        </member>
+        <member name="M:WebApi.Controllers.FavoriteController.Adicionar(WebApi.Models.InputModels.FavoriteInputModel)">
+            <summary>
+            Adicionar Favorito
+            </summary>
+            <param name="favoriteInputModel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.FavoriteController.Excluir(System.Int32)">
+            <summary>
+            Excluir Favorito
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.FavoriteController.Atualizar(WebApi.Models.InputModels.FavoriteInputModel,System.Int32)">
+            <summary>
+            Atualizar Favorito
+            </summary>
+            <param name="favoriteInputModel"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.GenreController.ListarTodos">
+            <summary>
+            Listar todos os gêneros
+            </summary>
+            <returns></returns>        
+        </member>
+        <member name="M:WebApi.Controllers.GenreController.ListarPorId(System.Int32)">
+            <summary>
+            Listar gêneros por id
+            </summary>
+            <param name="id"></param>
+            <returns>return um objeto movie</returns>
+        </member>
+        <member name="M:WebApi.Controllers.GenreController.Adicionar(WebApi.Models.InputModels.GenreInputModel)">
+            <summary>
+            Adicionar gênero
+            </summary>
+            <param name="genreInputModel"></param>
+            <returns></returns>
+            
+        </member>
+        <member name="M:WebApi.Controllers.GenreController.Excluir(System.Int32)">
+            <summary>
+            Excluir gênero
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.GenreController.Atualizar(WebApi.Models.InputModels.GenreInputModel,System.Int32)">
+            <summary>
+            Atualizar gênero
+            </summary>
+            <param name="genreInputModel"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.MovieController.ListarTodos">
+            <summary>
+            Listar todos os Movies
+            </summary>
+            <returns></returns>        
+        </member>
+        <member name="M:WebApi.Controllers.MovieController.ListarPorId(System.Int32)">
+            <summary>
+            Listar movie por id
+            </summary>
+            <param name="id"></param>
+            <returns>return um objeto movie</returns>
+        </member>
+        <member name="M:WebApi.Controllers.MovieController.Adicionar(WebApi.Models.MovieInputModel)">
+            <summary>
+            Adicionar Movie
+            </summary>
+            <param name="movieInputModel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.MovieController.Excluir(System.Int32)">
+            <summary>
+            Excluir Movie
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.MovieController.Atualizar(WebApi.Models.MovieInputModel,System.Int32)">
+            <summary>
+            Atualizar Movie
+            </summary>
+            <param name="movieInputModel"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.SerieController.ListarTodos">
+            <summary>
+            Listar todas as série
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.SerieController.ListarPorId(System.Int32)">
+            <summary>
+            Listar série por id
+            </summary>
+            <param name="id"></param>
+            <returns>return um objeto movie</returns>
+        </member>
+        <member name="M:WebApi.Controllers.SerieController.Adicionar(WebApi.Models.InputModels.SerieInputModel)">
+            <summary>
+            Adicionar Série
+            </summary>
+            <param name="serieInputModel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.SerieController.Excluir(System.Int32)">
+            <summary>
+            Excluir Série
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.SerieController.Atualizar(WebApi.Models.InputModels.SerieInputModel,System.Int32)">
+            <summary>
+            Atualizar Série
+            </summary>
+            <param name="serieInputModel"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.UserController.ListarTodos">
+            <summary>
+            Listar todos os Usuarios
+            </summary>
+            <returns></returns>        
+        </member>
+        <member name="M:WebApi.Controllers.UserController.ListarPorId(System.Int32)">
+            <summary>
+            Listar Usuario por id
+            </summary>
+            <param name="id"></param>
+            <returns>return um objeto movie</returns>
+        </member>
+        <member name="M:WebApi.Controllers.UserController.Adicionar(WebApi.Models.InputModels.UserInputModel)">
+            <summary>
+            Adicionar Usuario
+            </summary>
+            <param name="userInputModel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.UserController.Excluir(System.Int32)">
+            <summary>
+            Excluir Usuario
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.UserController.Atualizar(WebApi.Models.InputModels.UserInputModel,System.Int32)">
+            <summary>
+            Atualizar Usuario
+            </summary>
+            <param name="userInputModel"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.WatchLaterController.ListarTodos">
+            <summary>
+            Listar todos para assistir mais tarde
+            </summary>
+            <returns></returns>        
+        </member>
+        <member name="M:WebApi.Controllers.WatchLaterController.ListarPorId(System.Int32)">
+            <summary>
+            Listar assistir mais tarde por id
+            </summary>
+            <param name="id"></param>
+            <returns>return um objeto movie</returns>
+        </member>
+        <member name="M:WebApi.Controllers.WatchLaterController.Adicionar(WebApi.Models.InputModels.WatchLaterInputModel)">
+            <summary>
+            Adicionar na lista de assistir mais tarde
+            </summary>
+            <param name="watchLaterInputModel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.WatchLaterController.Excluir(System.Int32)">
+            <summary>
+            Excluir da lista de assistir mais tarde
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.WatchLaterController.Atualizar(WebApi.Models.InputModels.WatchLaterInputModel,System.Int32)">
+            <summary>
+            Atualizar na lista de assistir mais tarde
+            </summary>
+            <param name="watchLaterInputModel"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,105 @@
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\TestConsole.exe
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\TestConsole.deps.json
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\TestConsole.runtimeconfig.json
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\TestConsole.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\ref\TestConsole.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\TestConsole.pdb
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Npgsql.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Application.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Domain.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Application.pdb
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\bin\Debug\net6.0\Domain.pdb
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfo.cs
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.csproj.CopyComplete
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\obj\Debug\net6.0\ref\TestConsole.dll
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.pdb
+C:\Users\erick\Documents\GitHub\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.genruntimeconfig.cache
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\TestConsole.exe
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\TestConsole.deps.json
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\TestConsole.runtimeconfig.json
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\TestConsole.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\ref\TestConsole.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\TestConsole.pdb
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Npgsql.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Application.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Domain.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Application.pdb
+C:\Users\erick\Desktop\new-netflix\TestConsole\bin\Debug\net6.0\Domain.pdb
+C:\Users\erick\Desktop\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfo.cs
+C:\Users\erick\Desktop\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.csproj.CopyComplete
+C:\Users\erick\Desktop\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\obj\Debug\net6.0\ref\TestConsole.dll
+C:\Users\erick\Desktop\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.pdb
+C:\Users\erick\Desktop\new-netflix\TestConsole\obj\Debug\net6.0\TestConsole.genruntimeconfig.cache
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\TestConsole.exe
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\TestConsole.deps.json
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\TestConsole.runtimeconfig.json
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\TestConsole.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\ref\TestConsole.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\TestConsole.pdb
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Npgsql.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Application.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Domain.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Application.pdb
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Domain.pdb
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\obj\Debug\net6.0\TestConsole.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\obj\Debug\net6.0\TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfo.cs
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\obj\Debug\net6.0\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\obj\Debug\net6.0\TestConsole.csproj.CopyComplete
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\obj\Debug\net6.0\TestConsole.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\obj\Debug\net6.0\ref\TestConsole.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\obj\Debug\net6.0\TestConsole.pdb
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\obj\Debug\net6.0\TestConsole.genruntimeconfig.cache
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Humanizer.dll
+C:\Users\erick\Desktop\New-netflix - Copia\TestConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

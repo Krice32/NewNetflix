@@ -1,0 +1,216 @@
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\ref\WebApi.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\WebApi.xml
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\Npgsql.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\Application.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\Domain.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\Application.pdb
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\bin\Debug\net6.0\Domain.pdb
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\WebApi.xml
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\erick\Documents\GitHub\new-netflix\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\ref\WebApi.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\WebApi.xml
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\Npgsql.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\Application.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\Domain.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\Application.pdb
+C:\Users\danib\Downloads\new-netflix\WebApi\bin\Debug\net6.0\Domain.pdb
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\WebApi.xml
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\danib\Downloads\new-netflix\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\ref\WebApi.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\WebApi.xml
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\Npgsql.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\Application.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\Domain.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\Application.pdb
+C:\Users\erick\Desktop\new-netflix\WebApi\bin\Debug\net6.0\Domain.pdb
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\WebApi.xml
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\erick\Desktop\new-netflix\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\erick\Desktop\New-netflix\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\erick\Desktop\New-netflix\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\erick\Desktop\New-netflix\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\erick\Desktop\New-netflix\WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\ref\WebApi.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\WebApi.xml
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Npgsql.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Application.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Domain.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Application.pdb
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Domain.pdb
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\WebApi.xml
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\erick\Desktop\New-netflix - Copia\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\ref\WebApi.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\WebApi.xml
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Npgsql.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Application.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Domain.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Application.pdb
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\bin\Debug\net6.0\Domain.pdb
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\WebApi.xml
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\erick\Desktop\NewNetflixBackEnd\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
