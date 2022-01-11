@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LpRzzh20xsndYIiNxRUwalW/TLVUXu3RR6MdlXF5v2h2cNL1BuOJnANQbQteC/yJ3WAKAnBxWc2q6uycn7INDA==",
+  "dgSpecHash": "7g4MpsCsIeYgoIxwhyYVbMQHS45xhf1pKjFiUA+SWkX+eZNxW7z5ykjvFObD9L4HkpVbwVAUVHjUmE1Chm2/Yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick\\Desktop\\NewNeflixFrontEnd\\NewNeflixFrontEnd\\NewNeflixFrontEnd.csproj",
+  "projectFilePath": "C:\\Users\\erick\\Documents\\GitHub\\NewNetflix\\NewNeflixFrontEnd\\NewNeflixFrontEnd\\NewNeflixFrontEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erick\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

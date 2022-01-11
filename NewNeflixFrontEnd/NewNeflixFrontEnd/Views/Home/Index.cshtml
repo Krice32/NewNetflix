@@ -1,14 +1,17 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+@{
+  Layout = "~/Views/Shared/_Layout2.cshtml";
+}
 
 
-<div class="text-center">
+<!--<div class="text-center">
 
     <h1 class="display-4">Bem-Vindo a Stefaniflix</h1>
     <p>Veja nossos lançamentos</p>
 
-</div>
+</div>-->
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -16,7 +19,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style = "width:84%; top:-17px; left:-150px" >
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a58a7719-0dcf-4e0b-b7bb-d2b725dbbb8e/detfa8u-f8a9feb9-93bf-4ae8-b7e0-4d72d20ea73f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1OGE3NzE5LTBkY2YtNGUwYi1iN2JiLWQyYjcyNWRiYmI4ZVwvZGV0ZmE4dS1mOGE5ZmViOS05M2JmLTRhZTgtYjdlMC00ZDcyZDIwZWE3M2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-BT6dJjWBUWuv4jgnO3V9KepFENryC-0uDA3yYNRs_w" alt="Primeiro Slide">
@@ -48,4 +51,16 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Próximo</span>
   </a>
+</div>
+<div class="Login" style = "width:250px;position:absolute;right:90px; top:190px;">
+    <h3>Faça Login aqui</h3><br>
+    <h6>Login: </h6> <input class="form-control"/>
+    <br>
+    <h6>Senha: </h6><input class="form-control"/>
+    <br>
+    <a class="btn btn-primary nav-link text-white" asp-area="" asp-controller="Movies" asp-action="Index">Entrar</a>
+    <br>
+    <a class="btn btn-primary nav-link text-white" asp-area="" asp-controller="Home" asp-action="View">Cadastre-se</a>
+
+
 </div>

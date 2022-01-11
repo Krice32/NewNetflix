@@ -9493,11 +9493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick\\Desktop\\NewNeflixFrontEnd\\NewNeflixFrontEnd\\NewNeflixFrontEnd.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\Documents\\GitHub\\NewNetflix\\NewNeflixFrontEnd\\NewNeflixFrontEnd\\NewNeflixFrontEnd.csproj",
       "projectName": "NewNeflixFrontEnd",
-      "projectPath": "C:\\Users\\erick\\Desktop\\NewNeflixFrontEnd\\NewNeflixFrontEnd\\NewNeflixFrontEnd.csproj",
+      "projectPath": "C:\\Users\\erick\\Documents\\GitHub\\NewNetflix\\NewNeflixFrontEnd\\NewNeflixFrontEnd\\NewNeflixFrontEnd.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erick\\Desktop\\NewNeflixFrontEnd\\NewNeflixFrontEnd\\obj\\",
+      "outputPath": "C:\\Users\\erick\\Documents\\GitHub\\NewNetflix\\NewNeflixFrontEnd\\NewNeflixFrontEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",

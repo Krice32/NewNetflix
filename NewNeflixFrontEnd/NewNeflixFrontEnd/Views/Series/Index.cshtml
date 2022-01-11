@@ -1,0 +1,66 @@
+﻿@model IEnumerable<NewNeflixFrontEnd.Models.Series>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Series</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Adicionar Serie</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SeImg)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SeTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SeDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SeQtdSeasons)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SeSynopsis)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gr)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <img src=@Html.DisplayFor(modelItem => item.SeImg) width=100px; height=140px/>
+             
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SeTitle)
+            </td>
+            <td>
+               @Html.DisplayFor(modelItem => item.SeDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SeQtdSeasons)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SeSynopsis)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gr.Genre1)
+            </td>
+            <td>
+                 <div class="col-xs-12"><a asp-action="Edit" class="btn btn-secondary btn-sm" asp-route-id="@item.SeId">Editar</a></div>
+                <a asp-action="Details" class="btn btn-secondary btn-sm col-xs-2" asp-route-id="@item.SeId">Detalhes</a> <br>
+                <a asp-action="Delete" class="btn btn-secondary btn-sm col-xs-2" asp-route-id="@item.SeId">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
